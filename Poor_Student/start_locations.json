@@ -1,0 +1,6 @@
+{
+    "type": "start_location",
+    "ident": "low_apart",
+    "name": "Low Income Apartment",
+    "target": "lowincome_apt_0"
+}

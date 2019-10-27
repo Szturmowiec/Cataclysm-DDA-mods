@@ -1,0 +1,14 @@
+{
+    "type": "scenario",
+    "ident": "poor_student_start",
+    "name": "Challenge - Student's life",
+    "points": -8,
+    "description": "Despite living in a wealthy country, you were extremely poor during recent years after you'd gone to university. You had barely enough money to pay your rent, despite living in the cheapest apartment possible, so you often had to skip meals and ended up severely malnourished. Today you woke up to the screams of pain and terror and distant gunfire... Looks like food and warm clothes you desperately need are for free now, but suddenly you've become the most desired person in the enitre city... You have a bad feeling about the hungry look in other people's eyes... This is going to be a tough semester, but you're used to surviving, arent't you?",
+    "allowed_locs": [ "low_apart" ],
+    "professions": [
+      "poor_student"
+    ],
+	"forced_traits": [ "XS", "HUNGER" ],
+    "start_name": "Low Income Apartment",
+    "flags": [ "CHALLENGE", "LONE_START", "CITY_START" ]
+  }

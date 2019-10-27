@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "poor_student",
+    "name": "Student's life",
+    "authors": [ "Stormtrooper" ],
+    "maintainers": [ "Stormtrooper" ],
+    "description": "Adds a new challenge scenario - a poor, malnourished student waking up in his poor apartment at dawn of the apocalypse.",
+    "category": "misc_additions",
+    "dependencies": [ "dda", "whaleys_tallbuild", "more_classes_scenarios" ]
+  }
+]
