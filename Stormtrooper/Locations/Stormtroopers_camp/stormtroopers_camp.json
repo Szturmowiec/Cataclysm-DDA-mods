@@ -6,6 +6,9 @@
     "weight": 1000,
     "object": {
 	  "fill_ter": "t_concrete_floor",
+	  "faction_owner": [
+        { "id": "storm_fac", "x": [ 0, 23 ], "y": [ 0, 23 ] }
+      ],
       "rows": [
         "|||||||||||dd|||||||||||",
         "|.........s..s.........|",
